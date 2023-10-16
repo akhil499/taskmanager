@@ -3,6 +3,7 @@ package com.taskmanager.entities;
 import lombok.Data;
 
 import java.util.Date;
+import java.util.List;
 
 @Data
 public class TaskEntity {
